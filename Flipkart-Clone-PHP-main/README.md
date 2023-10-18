@@ -5,8 +5,6 @@
 
 ## Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Flipkart-Clone-PHP/search?l=html)&nbsp;
-![Screenshot (485)](https://github.com/Samruddhi76/Flipkart-PHP/assets/111414361/0c190771-8c9c-4f12-89e0-f989f683b436)
-
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Flipkart-Clone-PHP/search?l=css)&nbsp;
 <img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Flipkart-Clone-PHP/search?l=javascript)
