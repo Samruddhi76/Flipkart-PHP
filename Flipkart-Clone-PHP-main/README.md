@@ -31,8 +31,6 @@
 - Real Time Price Updates on Quantity Change
 
 ## Sneak Peek of Site  :
-<!-- ![home](https://user-images.githubusercontent.com/64949957/136549386-5d3cd8e9-7499-4fe4-8652-8840930febb6.PNG) -->
-
 
 <h2>📬 Contact</h2>
 
